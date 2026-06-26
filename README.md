@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/athishasdev/Leetcode/tree/master/0049-group-anagrams) |
 | [0152-maximum-product-subarray](https://github.com/athishasdev/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [1732-find-the-highest-altitude](https://github.com/athishasdev/Leetcode/tree/master/1732-find-the-highest-altitude) |
+| [3838-weighted-word-mapping](https://github.com/athishasdev/Leetcode/tree/master/3838-weighted-word-mapping) |
 ## Hash Table
 |  |
 | ------- |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/athishasdev/Leetcode/tree/master/0049-group-anagrams) |
 | [1189-maximum-number-of-balloons](https://github.com/athishasdev/Leetcode/tree/master/1189-maximum-number-of-balloons) |
+| [3838-weighted-word-mapping](https://github.com/athishasdev/Leetcode/tree/master/3838-weighted-word-mapping) |
 ## Counting
 |  |
 | ------- |
@@ -39,4 +41,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1732-find-the-highest-altitude](https://github.com/athishasdev/Leetcode/tree/master/1732-find-the-highest-altitude) |
+## Simulation
+|  |
+| ------- |
+| [3838-weighted-word-mapping](https://github.com/athishasdev/Leetcode/tree/master/3838-weighted-word-mapping) |
 <!---LeetCode Topics End-->
