@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/athishasdev/Leetcode/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/athishasdev/Leetcode/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/athishasdev/Leetcode/tree/master/0056-merge-intervals) |
 | [0152-maximum-product-subarray](https://github.com/athishasdev/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0287-find-the-duplicate-number](https://github.com/athishasdev/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0456-132-pattern](https://github.com/athishasdev/Leetcode/tree/master/0456-132-pattern) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/athishasdev/Leetcode/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/athishasdev/Leetcode/tree/master/0056-merge-intervals) |
 ## Dynamic Programming
 |  |
 | ------- |
