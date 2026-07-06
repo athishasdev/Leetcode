@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/athishasdev/Leetcode/tree/master/0198-house-robber) |
 | [0287-find-the-duplicate-number](https://github.com/athishasdev/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0456-132-pattern](https://github.com/athishasdev/Leetcode/tree/master/0456-132-pattern) |
+| [1288-remove-covered-intervals](https://github.com/athishasdev/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1732-find-the-highest-altitude](https://github.com/athishasdev/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/athishasdev/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3838-weighted-word-mapping](https://github.com/athishasdev/Leetcode/tree/master/3838-weighted-word-mapping) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/athishasdev/Leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/athishasdev/Leetcode/tree/master/0056-merge-intervals) |
+| [1288-remove-covered-intervals](https://github.com/athishasdev/Leetcode/tree/master/1288-remove-covered-intervals) |
 ## Dynamic Programming
 |  |
 | ------- |
