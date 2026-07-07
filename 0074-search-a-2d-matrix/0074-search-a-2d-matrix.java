@@ -4,11 +4,11 @@ class Solution {
         int n = matrix.length;
 
         int first = 0;
-        int last = m * n;
+        int last = m * n - 1;
 
         while(first <= last){
             int mid = first + (last - first) / 2;
-            if(mid >= m*n) return false;
+            
             int row = mid / m;
             int col = mid % m;
             
