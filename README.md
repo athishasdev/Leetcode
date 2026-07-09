@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/athishasdev/Leetcode/tree/master/0231-power-of-two) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/athishasdev/Leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
+| [2652-sum-multiples](https://github.com/athishasdev/Leetcode/tree/master/2652-sum-multiples) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/athishasdev/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## String
 |  |
