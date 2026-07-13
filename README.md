@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/athishasdev/Leetcode/tree/master/0231-power-of-two) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/athishasdev/Leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/athishasdev/Leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
+| [2582-pass-the-pillow](https://github.com/athishasdev/Leetcode/tree/master/2582-pass-the-pillow) |
 | [2652-sum-multiples](https://github.com/athishasdev/Leetcode/tree/master/2652-sum-multiples) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/athishasdev/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/athishasdev/Leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2582-pass-the-pillow](https://github.com/athishasdev/Leetcode/tree/master/2582-pass-the-pillow) |
 | [3838-weighted-word-mapping](https://github.com/athishasdev/Leetcode/tree/master/3838-weighted-word-mapping) |
 ## Binary Search
 |  |
