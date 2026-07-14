@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/athishasdev/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1732-find-the-highest-altitude](https://github.com/athishasdev/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/athishasdev/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/athishasdev/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3838-weighted-word-mapping](https://github.com/athishasdev/Leetcode/tree/master/3838-weighted-word-mapping) |
 ## Hash Table
 |  |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2520-count-the-digits-that-divide-a-number](https://github.com/athishasdev/Leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2582-pass-the-pillow](https://github.com/athishasdev/Leetcode/tree/master/2582-pass-the-pillow) |
 | [2652-sum-multiples](https://github.com/athishasdev/Leetcode/tree/master/2652-sum-multiples) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/athishasdev/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/athishasdev/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/athishasdev/Leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## String
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/athishasdev/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/athishasdev/Leetcode/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/athishasdev/Leetcode/tree/master/0300-longest-increasing-subsequence) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/athishasdev/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -179,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/athishasdev/Leetcode/tree/master/0204-count-primes) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/athishasdev/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## String Matching
 |  |
 | ------- |
