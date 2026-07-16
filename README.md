@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/athishasdev/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/athishasdev/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3838-weighted-word-mapping](https://github.com/athishasdev/Leetcode/tree/master/3838-weighted-word-mapping) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/athishasdev/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3658-gcd-of-odd-and-even-sums](https://github.com/athishasdev/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/athishasdev/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/athishasdev/Leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/athishasdev/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
 |  |
 | ------- |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/athishasdev/Leetcode/tree/master/0169-majority-element) |
 | [1288-remove-covered-intervals](https://github.com/athishasdev/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/athishasdev/Leetcode/tree/master/1331-rank-transform-of-an-array) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/athishasdev/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -97,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2582-pass-the-pillow](https://github.com/athishasdev/Leetcode/tree/master/2582-pass-the-pillow) |
 | [3838-weighted-word-mapping](https://github.com/athishasdev/Leetcode/tree/master/3838-weighted-word-mapping) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/athishasdev/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
 |  |
 | ------- |
@@ -123,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/athishasdev/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/athishasdev/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/athishasdev/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/athishasdev/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -188,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/athishasdev/Leetcode/tree/master/0204-count-primes) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/athishasdev/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/athishasdev/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/athishasdev/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String Matching
 |  |
 | ------- |
