@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2520-count-the-digits-that-divide-a-number](https://github.com/athishasdev/Leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2582-pass-the-pillow](https://github.com/athishasdev/Leetcode/tree/master/2582-pass-the-pillow) |
 | [2652-sum-multiples](https://github.com/athishasdev/Leetcode/tree/master/2652-sum-multiples) |
+| [3001-minimum-moves-to-capture-the-queen](https://github.com/athishasdev/Leetcode/tree/master/3001-minimum-moves-to-capture-the-queen) |
 | [3312-sorted-gcd-pair-queries](https://github.com/athishasdev/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/athishasdev/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/athishasdev/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/athishasdev/Leetcode/tree/master/0204-count-primes) |
 | [1291-sequential-digits](https://github.com/athishasdev/Leetcode/tree/master/1291-sequential-digits) |
+| [3001-minimum-moves-to-capture-the-queen](https://github.com/athishasdev/Leetcode/tree/master/3001-minimum-moves-to-capture-the-queen) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/athishasdev/Leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Number Theory
 |  |
