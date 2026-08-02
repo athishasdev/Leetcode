@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/athishasdev/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/athishasdev/Leetcode/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/athishasdev/Leetcode/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/athishasdev/Leetcode/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/athishasdev/Leetcode/tree/master/0204-count-primes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/athishasdev/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/athishasdev/Leetcode/tree/master/0287-find-the-duplicate-number) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/athishasdev/Leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/athishasdev/Leetcode/tree/master/0101-symmetric-tree) |
+| [0200-number-of-islands](https://github.com/athishasdev/Leetcode/tree/master/0200-number-of-islands) |
 | [0257-binary-tree-paths](https://github.com/athishasdev/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0513-find-bottom-left-tree-value](https://github.com/athishasdev/Leetcode/tree/master/0513-find-bottom-left-tree-value) |
 ## Binary Tree
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/athishasdev/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/athishasdev/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0200-number-of-islands](https://github.com/athishasdev/Leetcode/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/athishasdev/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [1260-shift-2d-grid](https://github.com/athishasdev/Leetcode/tree/master/1260-shift-2d-grid) |
 ## Breadth-First Search
@@ -214,11 +217,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/athishasdev/Leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/athishasdev/Leetcode/tree/master/0101-symmetric-tree) |
+| [0200-number-of-islands](https://github.com/athishasdev/Leetcode/tree/master/0200-number-of-islands) |
 | [0513-find-bottom-left-tree-value](https://github.com/athishasdev/Leetcode/tree/master/0513-find-bottom-left-tree-value) |
 ## Union-Find
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/athishasdev/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/athishasdev/Leetcode/tree/master/0200-number-of-islands) |
 ## Recursion
 |  |
 | ------- |
