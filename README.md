@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0456-132-pattern](https://github.com/athishasdev/Leetcode/tree/master/0456-132-pattern) |
 | [0486-predict-the-winner](https://github.com/athishasdev/Leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/athishasdev/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0658-find-k-closest-elements](https://github.com/athishasdev/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [1260-shift-2d-grid](https://github.com/athishasdev/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/athishasdev/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/athishasdev/Leetcode/tree/master/1331-rank-transform-of-an-array) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/athishasdev/Leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/athishasdev/Leetcode/tree/master/0169-majority-element) |
 | [0628-maximum-product-of-three-numbers](https://github.com/athishasdev/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0658-find-k-closest-elements](https://github.com/athishasdev/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [1288-remove-covered-intervals](https://github.com/athishasdev/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/athishasdev/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/athishasdev/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/athishasdev/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/athishasdev/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0456-132-pattern](https://github.com/athishasdev/Leetcode/tree/master/0456-132-pattern) |
+| [0658-find-k-closest-elements](https://github.com/athishasdev/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [3312-sorted-gcd-pair-queries](https://github.com/athishasdev/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 ## Stack
 |  |
@@ -169,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/athishasdev/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/athishasdev/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0392-is-subsequence](https://github.com/athishasdev/Leetcode/tree/master/0392-is-subsequence) |
+| [0658-find-k-closest-elements](https://github.com/athishasdev/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/athishasdev/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Bit Manipulation
 |  |
@@ -179,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/athishasdev/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0658-find-k-closest-elements](https://github.com/athishasdev/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/athishasdev/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Backtracking
 |  |
@@ -281,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0658-find-k-closest-elements](https://github.com/athishasdev/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/athishasdev/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Database
 |  |
