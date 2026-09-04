@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/athishasdev/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/athishasdev/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/athishasdev/Leetcode/tree/master/0300-longest-increasing-subsequence) |
+| [0318-maximum-product-of-word-lengths](https://github.com/athishasdev/Leetcode/tree/master/0318-maximum-product-of-word-lengths) |
 | [0456-132-pattern](https://github.com/athishasdev/Leetcode/tree/master/0456-132-pattern) |
 | [0486-predict-the-winner](https://github.com/athishasdev/Leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/athishasdev/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/athishasdev/Leetcode/tree/master/0049-group-anagrams) |
 | [0151-reverse-words-in-a-string](https://github.com/athishasdev/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0257-binary-tree-paths](https://github.com/athishasdev/Leetcode/tree/master/0257-binary-tree-paths) |
+| [0318-maximum-product-of-word-lengths](https://github.com/athishasdev/Leetcode/tree/master/0318-maximum-product-of-word-lengths) |
 | [0392-is-subsequence](https://github.com/athishasdev/Leetcode/tree/master/0392-is-subsequence) |
 | [0709-to-lower-case](https://github.com/athishasdev/Leetcode/tree/master/0709-to-lower-case) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/athishasdev/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/athishasdev/Leetcode/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/athishasdev/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0318-maximum-product-of-word-lengths](https://github.com/athishasdev/Leetcode/tree/master/0318-maximum-product-of-word-lengths) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/athishasdev/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Sliding Window
 |  |
