@@ -238,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/athishasdev/Leetcode/tree/master/0101-symmetric-tree) |
 | [0257-binary-tree-paths](https://github.com/athishasdev/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0513-find-bottom-left-tree-value](https://github.com/athishasdev/Leetcode/tree/master/0513-find-bottom-left-tree-value) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/athishasdev/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/athishasdev/Leetcode/tree/master/0200-number-of-islands) |
 | [0257-binary-tree-paths](https://github.com/athishasdev/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0513-find-bottom-left-tree-value](https://github.com/athishasdev/Leetcode/tree/master/0513-find-bottom-left-tree-value) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/athishasdev/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/athishasdev/Leetcode/tree/master/0101-symmetric-tree) |
 | [0257-binary-tree-paths](https://github.com/athishasdev/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0513-find-bottom-left-tree-value](https://github.com/athishasdev/Leetcode/tree/master/0513-find-bottom-left-tree-value) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/athishasdev/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Matrix
 |  |
 | ------- |
