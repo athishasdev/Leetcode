@@ -11,7 +11,6 @@ class Solution {
                     if(k == j || k == i) continue;
                     int num = (digits[i] * 100) + (digits[j] * 10) + digits[k];
                     if(num % 2 == 0)set.add(num);
-                    System.out.println(num);
                 }
             }
         }
