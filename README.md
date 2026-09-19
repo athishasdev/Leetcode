@@ -305,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/athishasdev/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0231-power-of-two](https://github.com/athishasdev/Leetcode/tree/master/0231-power-of-two) |
 | [0486-predict-the-winner](https://github.com/athishasdev/Leetcode/tree/master/0486-predict-the-winner) |
 | [3483-unique-3-digit-even-numbers](https://github.com/athishasdev/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
@@ -351,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/athishasdev/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0148-sort-list](https://github.com/athishasdev/Leetcode/tree/master/0148-sort-list) |
 ## Merge Sort
 |  |
