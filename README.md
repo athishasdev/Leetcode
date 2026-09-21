@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0318-maximum-product-of-word-lengths](https://github.com/athishasdev/Leetcode/tree/master/0318-maximum-product-of-word-lengths) |
 | [0392-is-subsequence](https://github.com/athishasdev/Leetcode/tree/master/0392-is-subsequence) |
 | [0709-to-lower-case](https://github.com/athishasdev/Leetcode/tree/master/0709-to-lower-case) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/athishasdev/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0940-distinct-subsequences-ii](https://github.com/athishasdev/Leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/athishasdev/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/athishasdev/Leetcode/tree/master/1189-maximum-number-of-balloons) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0456-132-pattern](https://github.com/athishasdev/Leetcode/tree/master/0456-132-pattern) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/athishasdev/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1019-next-greater-node-in-linked-list](https://github.com/athishasdev/Leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/athishasdev/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Stack
@@ -349,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/athishasdev/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/athishasdev/Leetcode/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/athishasdev/Leetcode/tree/master/0135-candy) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/athishasdev/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/athishasdev/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1328-break-a-palindrome](https://github.com/athishasdev/Leetcode/tree/master/1328-break-a-palindrome) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/athishasdev/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -391,4 +394,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/athishasdev/Leetcode/tree/master/0836-rectangle-overlap) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/athishasdev/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
