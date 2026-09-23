@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/athishasdev/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/athishasdev/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1550-three-consecutive-odds](https://github.com/athishasdev/Leetcode/tree/master/1550-three-consecutive-odds) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/athishasdev/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1732-find-the-highest-altitude](https://github.com/athishasdev/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/athishasdev/Leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/athishasdev/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/athishasdev/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/athishasdev/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/athishasdev/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/athishasdev/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/athishasdev/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/athishasdev/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/athishasdev/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/athishasdev/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/athishasdev/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1732-find-the-highest-altitude](https://github.com/athishasdev/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [3312-sorted-gcd-pair-queries](https://github.com/athishasdev/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/athishasdev/Leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -215,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0456-132-pattern](https://github.com/athishasdev/Leetcode/tree/master/0456-132-pattern) |
 | [0658-find-k-closest-elements](https://github.com/athishasdev/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/athishasdev/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/athishasdev/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3312-sorted-gcd-pair-queries](https://github.com/athishasdev/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/athishasdev/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Stack
@@ -260,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/athishasdev/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/athishasdev/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/athishasdev/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/athishasdev/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/athishasdev/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/athishasdev/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Backtracking
