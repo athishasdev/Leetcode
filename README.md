@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/athishasdev/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/athishasdev/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/athishasdev/Leetcode/tree/master/0169-majority-element) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/athishasdev/Leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1189-maximum-number-of-balloons](https://github.com/athishasdev/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/athishasdev/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/athishasdev/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/athishasdev/Leetcode/tree/master/0101-symmetric-tree) |
 | [0257-binary-tree-paths](https://github.com/athishasdev/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0513-find-bottom-left-tree-value](https://github.com/athishasdev/Leetcode/tree/master/0513-find-bottom-left-tree-value) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/athishasdev/Leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/athishasdev/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
@@ -289,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/athishasdev/Leetcode/tree/master/0200-number-of-islands) |
 | [0257-binary-tree-paths](https://github.com/athishasdev/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0513-find-bottom-left-tree-value](https://github.com/athishasdev/Leetcode/tree/master/0513-find-bottom-left-tree-value) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/athishasdev/Leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/athishasdev/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
@@ -297,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/athishasdev/Leetcode/tree/master/0101-symmetric-tree) |
 | [0257-binary-tree-paths](https://github.com/athishasdev/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0513-find-bottom-left-tree-value](https://github.com/athishasdev/Leetcode/tree/master/0513-find-bottom-left-tree-value) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/athishasdev/Leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/athishasdev/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Matrix
 |  |
@@ -315,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/athishasdev/Leetcode/tree/master/0101-symmetric-tree) |
 | [0200-number-of-islands](https://github.com/athishasdev/Leetcode/tree/master/0200-number-of-islands) |
 | [0513-find-bottom-left-tree-value](https://github.com/athishasdev/Leetcode/tree/master/0513-find-bottom-left-tree-value) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/athishasdev/Leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/athishasdev/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Union-Find
 |  |
