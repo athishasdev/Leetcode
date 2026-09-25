@@ -33,7 +33,7 @@ class Solution {
         
     }
 
-    public List<Integer> bfs(Map<TreeNode,TreeNode> parent,TreeNode target,int k){
+    public List<Integer> recursion(Map<TreeNode,TreeNode> parent,TreeNode target,int k){
         Set<TreeNode> visited = new HashSet<>();
         Queue<TreeNode> queue = new LinkedList<>();
         List<Integer> list = new ArrayList<>();
@@ -84,6 +84,6 @@ class Solution {
         Map<TreeNode,TreeNode> parent = new HashMap<>();
 
         parent = findParents(root);
-        return bfs(parent,target,k);
+        return recursion(parent,target,k);
     }
 }
