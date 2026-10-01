@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/athishasdev/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/athishasdev/Leetcode/tree/master/0169-majority-element) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/athishasdev/Leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [1096-brace-expansion-ii](https://github.com/athishasdev/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/athishasdev/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/athishasdev/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/athishasdev/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/athishasdev/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0940-distinct-subsequences-ii](https://github.com/athishasdev/Leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/athishasdev/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/athishasdev/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/athishasdev/Leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1189-maximum-number-of-balloons](https://github.com/athishasdev/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/athishasdev/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/athishasdev/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0658-find-k-closest-elements](https://github.com/athishasdev/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/athishasdev/Leetcode/tree/master/0950-reveal-cards-in-increasing-order) |
+| [1096-brace-expansion-ii](https://github.com/athishasdev/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1288-remove-covered-intervals](https://github.com/athishasdev/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/athishasdev/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/athishasdev/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -236,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/athishasdev/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1019-next-greater-node-in-linked-list](https://github.com/athishasdev/Leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/athishasdev/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/athishasdev/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/athishasdev/Leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/athishasdev/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Monotonic Stack
@@ -281,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/athishasdev/Leetcode/tree/master/0257-binary-tree-paths) |
+| [1096-brace-expansion-ii](https://github.com/athishasdev/Leetcode/tree/master/1096-brace-expansion-ii) |
 ## Tree
 |  |
 | ------- |
@@ -328,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/athishasdev/Leetcode/tree/master/0200-number-of-islands) |
 | [0513-find-bottom-left-tree-value](https://github.com/athishasdev/Leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/athishasdev/Leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [1096-brace-expansion-ii](https://github.com/athishasdev/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/athishasdev/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Union-Find
 |  |
