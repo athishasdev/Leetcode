@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0318-maximum-product-of-word-lengths](https://github.com/athishasdev/Leetcode/tree/master/0318-maximum-product-of-word-lengths) |
 | [0392-is-subsequence](https://github.com/athishasdev/Leetcode/tree/master/0392-is-subsequence) |
 | [0709-to-lower-case](https://github.com/athishasdev/Leetcode/tree/master/0709-to-lower-case) |
+| [0856-score-of-parentheses](https://github.com/athishasdev/Leetcode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/athishasdev/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0940-distinct-subsequences-ii](https://github.com/athishasdev/Leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/athishasdev/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/athishasdev/Leetcode/tree/master/0020-valid-parentheses) |
 | [0456-132-pattern](https://github.com/athishasdev/Leetcode/tree/master/0456-132-pattern) |
+| [0856-score-of-parentheses](https://github.com/athishasdev/Leetcode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/athishasdev/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1019-next-greater-node-in-linked-list](https://github.com/athishasdev/Leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/athishasdev/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -439,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/athishasdev/Leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/athishasdev/Leetcode/tree/master/0022-generate-parentheses) |
+| [0856-score-of-parentheses](https://github.com/athishasdev/Leetcode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/athishasdev/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/athishasdev/Leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/athishasdev/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
